@@ -1,4 +1,4 @@
 {
-  "port":8443,
+  "port":80,
   "secret":"6e971e87ea178c973fd7979d4918bf9e"
 }
